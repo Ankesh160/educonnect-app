@@ -1,0 +1,6 @@
+{
+  "name": "Ranjan Sir Live",
+  "description": "Online educational live classes and real-time student chat platform for Bihar and CBSE Board students with live streaming and admin broadcast portal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
